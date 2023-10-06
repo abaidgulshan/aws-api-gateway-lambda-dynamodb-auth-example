@@ -1,0 +1,1 @@
+# aws-api-gateway-lambda-dynamodb-auth-example
